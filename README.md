@@ -23,3 +23,5 @@ Known Bugs
 
 -The hotbar doesn't always have the best sensitivity.
 
+P.S: There is over 125 assets, so it has a LOT of files! ;)
+
