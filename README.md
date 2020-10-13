@@ -9,7 +9,7 @@ This uses basic 3D pen and images for the block rendering. The save codes use al
 
 -What is its x, y, and z coordinates?
 
-The program constantly renders the world using the lists. The loading part is just for loading list data and adding items to the lists, which is why it is so fast when its loading. The assets in the "render" sprite are for the block images.
+The program constantly renders the world using the lists. The loading part is just for loading list data and adding items to the lists, which is why it is so fast when its loading the world. The assets in the "render" sprite(In my scratch project) are for the block images.
 
 Known Bugs
 
@@ -22,6 +22,9 @@ Known Bugs
 -Sometimes the pig flickers but doesn't show.
 
 -The hotbar doesn't always have the best sensitivity.
+
+You can view the bare source in the json file or you can read it online at: https://projects.scratch.mit.edu/425526234/
+The original project in scratch is at: https://scratch.mit.edu/projects/425526234/
 
 P.S: There is over 125 assets, so it has a LOT of files! ;)
 
