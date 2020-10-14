@@ -1,6 +1,9 @@
 # MinecraftPE
 This is a Minecraft PE I programmed in scratch, converted to .html using sheeptester.github.io/words-go-here/htmlifier
 
+Gameplay
+There is only 3 items, 1 entity, and 1 placeable block but there is a command line(info can be found inside the book) and there is a decent gui. The menu grapics are pretty good, and the game itself is very similar to minecraft.
+
 How it Works
 
 This uses basic 3D pen and images for the block rendering. The save codes use all the info needed for the world; inventory, entities/blocks, and their coordinates. When you enter the code, it splits it into different lists and then uses those lists to run the game. Beta Features, unlike the regular program, uses individual pixels with individual programs, making it very unstable and unpredictable (It is not recommended). Each block in the game equals 1 item per list in 4 different lists because the lists for the blocks/entities ask for:
