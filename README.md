@@ -6,7 +6,7 @@ IF YOU WANT TO PLAY IT OR USE IT IN ANY WAY, WHEN YOU DOWNLOAD IT, DOWNLOAD ALL 
 The reason for this is that all the files other than the .json and .html files are assets.
 
 Gameplay
-There is only 3 items, 1 entity, and 1 placeable block but there is a command line(info can be found inside the book) and there is a decent gui. The menu grapics are pretty good, and the game itself is very similar to minecraft.
+There is only 3 items, 1 entity, and 1 placeable block but there is a command line(info can be found inside the book) and there is a decent gui. The menu grapics are pretty good, and the game itself is very similar to minecraft. You can play both on PC and Mobile, to activate PC edition, just toggle the PC switch in Options in the menu. Another way you can make the game pc edition is if you press any key on your keyboard, as long as it is a letter, number, or space key.
 
 How it Works
 
