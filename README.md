@@ -1,6 +1,10 @@
 # MinecraftPE
 This is a Minecraft PE I programmed in scratch, converted to .html using sheeptester.github.io/words-go-here/htmlifier
 
+NOTE:
+IF YOU WANT TO PLAY IT OR USE IT IN ANY WAY, WHEN YOU DOWNLOAD IT, DOWNLOAD ALL THE FILES IN A .ZIP FILE. IF YOU DO NOT DO SO, THE GAME WILL NOT WORK CORRECTLY. 
+The reason for this is that all the files other than the .json and .html files are assets.
+
 Gameplay
 There is only 3 items, 1 entity, and 1 placeable block but there is a command line(info can be found inside the book) and there is a decent gui. The menu grapics are pretty good, and the game itself is very similar to minecraft.
 
